@@ -13,5 +13,5 @@ An automated pipeline that fetches live JSON data from a public REST API, proces
 * **Data Processing:** JSON, Pandas
 * **Database:** MySQL, SQLAlchemy
 
-## 💡 The Interview Pitch
+## 💡 The Pitch
 *"I built a data ingestion system that fetches live competitive programming data from a REST API. I wrote a Python script to handle the HTTP requests, parsed and flattened the complex JSON response, applied transformations using Pandas, and finally loaded the structured data into a MySQL database. It demonstrates a complete end-to-end flow of acquiring and structuring third-party data."*
